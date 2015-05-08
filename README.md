@@ -10,3 +10,7 @@ Useage
 ```
 
 Include the css and js files for everything to work.
+
+
+Demo 
+http://codepen.io/mhartington/pen/QbyNvO
